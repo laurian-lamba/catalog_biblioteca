@@ -1,0 +1,14 @@
+.nav-pills .nav-link.active, .nav-pills .show > .nav-link {
+    background-color: #343a40
+}
+.prf .input-group-text {
+    width: 125px;
+}
+.pass .input-group-text {
+    width: 150px;
+}
+@media screen and (max-width: 480px) {
+    .input-group-prepend, .prf .input-group-text, .pass .input-group-text {
+        width: 100%;
+    }
+}

@@ -1,0 +1,12 @@
+NAME,USERNAME,PASSWORD,COURSE_ID,COURSEYEAR_ID,TYPE,ACTIVE
+JOHN,JOHN@RED.COM,12345678,4,1,STUDENT,1
+,,,,,,
+,,,,,,
+Note For Admin,Remove everything from here before uploading,,,,,
+Course Id : Can be found in Mng Academeics,,,,,,
+CourseYear Id : Also at the same location,,,,,,
+Type: It can be Student or Teacher . Case In-Sensitive,,,,,,
+Active: 1 or 0 where 1 Mean an active account,,,,,,
+Password: If not supplied will be assumed as 12345678,,,,,,
+Required Field: NAME and USERNAME,,,,,,
+KEEP THE HEADER,,,,,,
